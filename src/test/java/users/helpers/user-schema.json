@@ -1,0 +1,9 @@
+{
+  "userResponse": {
+    "nome": "#string",
+    "email": "#regex ^(.+)@(.+)$",
+    "password": "#string",
+    "administrador": "#string",
+    "_id": "#string"
+  }
+}
